@@ -15,4 +15,4 @@ https://youtu.be/zlqqSTZmTtg
 This project is built using PostgreSQL with Sequelize-Object Relational Mapping
 
 ## Featured programs: 
-HTML,CSS,Bootstrap,JavaScript, Node.js, Mustache
+HTML,CSS,Bootstrap,JavaScript, Node.js, Mustache,PostgresQL,Express.js
